@@ -1,0 +1,79 @@
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - ノーダイニングキッチン</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      color: #333;
+      background-color: #fdfdfd;
+      line-height: 1.8;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px 20px;
+    }
+
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+      font-weight: normal;
+    }
+
+    main {
+      max-width: 720px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    section {
+      margin-bottom: 40px;
+    }
+
+    section h2 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+      font-weight: normal;
+    }
+
+    footer {
+      text-align: center;
+      padding: 60px 20px 40px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ノーダイニングキッチン</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>自己紹介</h2>
+      <p>京都在住のイラストレーター・デザイナー。</p>
+    </section>
+
+    <section>
+      <h2>活動内容</h2>
+      <p>イラストのご依頼も受け付けています。</p>
+    </section>
+
+    <section>
+      <h2>連絡先</h2>
+      <p>ご依頼やご質問は <a href="nodiningkitchen@gmail.com">contact@example.com</a> までご連絡ください。</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 nodiningkitchen
+  </footer>
+</body>
+</html>ー
